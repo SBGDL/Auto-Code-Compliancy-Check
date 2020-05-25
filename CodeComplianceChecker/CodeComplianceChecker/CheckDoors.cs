@@ -95,17 +95,27 @@ namespace CodeComplianceChecker
             //if ((!File.Exists("FailedDoors.txt")))
             //{
             StreamWriter File = new StreamWriter("FailedDoors.txt");
-            foreach (Double item in failedDoors)
+            for (int i = 0; i < failedDoors.Count; i++)
             {
-                File.WriteLine(item);
+                string fdtxt = "The Door Width is " + failedDoors[i];
+                File.WriteLine(fdtxt);
+                string fdIdtxt = "The Door Id is " + failedDoorId[i];
+                File.WriteLine(fdIdtxt);
+                File.WriteLine("++++++++++++++++++++++++++++++");
             }
+
             File.Close();
 
             StreamWriter file = new StreamWriter("PassedDoors.txt");
-            foreach (Double item in passedDoors)
+            for (int i = 0; i < passedDoors.Count; i++)
             {
-                file.WriteLine(item);
+                string pdtxt = "The Door Width is " + passedDoors[i];
+                File.WriteLine(pdtxt);
+                string pdIdtxt = "The Door Id is " + passedDoorId[i];
+                File.WriteLine(pdIdtxt);
+                File.WriteLine("++++++++++++++++++++++++++++++");
             }
+
             file.Close();
 
             //}

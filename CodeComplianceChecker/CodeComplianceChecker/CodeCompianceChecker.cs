@@ -37,18 +37,20 @@ namespace CodeComplianceChecker
             CheckDoors chckdoor = new CheckDoors();
             chckdoor.CheckModelDoors(doc, app);
             #endregion
-           */
+           
             /*
             #region Access Room Data
             MyRoomData roomData = new MyRoomData();
             roomData.ListRoomData(doc);
             #endregion
             */
-            #region Check Stairs
-            CheckStairs chckstair = new CheckStairs();
-            chckstair.CheckModelStairs(doc, uidoc);
-            #endregion
 
+            #region Check Stairs
+            CheckAllStairs chckstair = new CheckAllStairs();
+           // CheckStairs chckstair = new CheckStairs();
+            chckstair.CheckMyStairs(doc, uidoc);
+            #endregion
+            
             /*
             #region Add Instance Parameter 
             AddInstanceParameter addinstparam = new AddInstanceParameter();

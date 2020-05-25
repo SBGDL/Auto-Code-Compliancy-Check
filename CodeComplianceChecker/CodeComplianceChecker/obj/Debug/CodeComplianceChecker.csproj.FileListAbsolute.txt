@@ -5,3 +5,10 @@ C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\CodeComplianceChecker\CodeComp
 C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\CodeComplianceChecker\CodeComplianceChecker\obj\Debug\CodeComplianceChecker.csproj.CoreCompileInputs.cache
 C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\CodeComplianceChecker\CodeComplianceChecker\obj\Debug\CodeComplianceChecker.dll
 C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\CodeComplianceChecker\CodeComplianceChecker\obj\Debug\CodeComplianceChecker.pdb
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\MyGitFolder\CodeComplianceChecker\CodeComplianceChecker\bin\Debug\CodeComplianceChecker.addin
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\MyGitFolder\CodeComplianceChecker\CodeComplianceChecker\bin\Debug\CodeComplianceChecker.dll
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\MyGitFolder\CodeComplianceChecker\CodeComplianceChecker\bin\Debug\CodeComplianceChecker.pdb
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\MyGitFolder\CodeComplianceChecker\CodeComplianceChecker\obj\Debug\CodeComplianceChecker.csprojAssemblyReference.cache
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\MyGitFolder\CodeComplianceChecker\CodeComplianceChecker\obj\Debug\CodeComplianceChecker.csproj.CoreCompileInputs.cache
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\MyGitFolder\CodeComplianceChecker\CodeComplianceChecker\obj\Debug\CodeComplianceChecker.dll
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\MyGitFolder\CodeComplianceChecker\CodeComplianceChecker\obj\Debug\CodeComplianceChecker.pdb
